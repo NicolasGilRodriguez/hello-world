@@ -1,2 +1,2 @@
-# hello-world
-hola mundo
+# add info about me
+juego al lol y me quiero morir
